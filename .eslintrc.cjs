@@ -24,5 +24,7 @@ module.exports = {
       ],
       "@typescript-eslint/no-non-null-assertion": "off",
       "@typescript-eslint/no-unsafe-argument": "error",
+
+      "@typescript-eslint/no-misused-promises": "error",
    },
 };
