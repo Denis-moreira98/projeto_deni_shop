@@ -1,46 +1,74 @@
 {
-  "products": [
-    { 
-      "id": 1, 
-      "title": "Airpods Apple, com Estojo de Recarga, Bluetooth", 
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso." ,
-      "price":120,
-      "cover": "https://i.imgur.com/uXrbyfA.jpg"
-    },
-    { 
-      "id": 2, 
-      "title": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H", 
-      "description": "Lenovo ideapad Gaming 3i\nNovo design com 11ª Geração de Processadores Intel Core i5-11300H e placa de vídeo NVIDIA GeForce GTX 1650 4GB. Ideal para gamers e usuários que também precisam de alta performance. Com tela de 15.6'' Full HD WVA Antirreflexo para melhor definição de imagem e cores. O armanezamento SSD PCIe NVMe é 10x mais rápido* que um HDD 2.5” SATA, você terá mais segurança ao armazenar seus dados. O teclado retroiluminado em LED branco, deixa o computador mais atraente e também favorece a performance para jogos em lugares com pouca iluminação.",
-      "price": 379.9,
-      "cover": "https://i.imgur.com/bM5IUKe.jpg"
-    },
-    { 
-      "id": 3, 
-      "title": "Teclado Mecânico Gamer HyperX Alloy", 
-      "description": "Teclado HyperX Alloy MKW100, HKBM1-R-EUA/G - 4P5E1AA#ABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos para adicionar um toque de estilo ao seu setup de PC. Estrutura em alumínio durável\nCom uma estrutura de alumínio sólida, o Alloy MKW100 foi projetado para fornecer estabilidade quando os toques em teclas estiverem a todo vapor. O descanso para pulso removível ajuda a reduzir a fadiga de longas sessões de jogos ou de trabalho.",
-      "price": 199.99,
-      "cover": "https://i.imgur.com/ldh1Q8O.jpg"
-    },
-    { 
-      "id": 4, 
-      "title": "Monitor Gamer Husky Tempest 34", 
-      "description": "O Monitor Gamer Husky Gaming Tempest LED 34 UltraWide Curvo traz a experiência de imersão completa para o seus jogos! A tela Curva UltraWide, formato 21:9, e Quad HD (QHD), com taxa de atualização de 144Hz, confere maior campo de visão e amplifica a experiência de imersão durante seus jogos.",
-      "price": 2099.99,
-      "cover": "https://i.imgur.com/sRmbcWW.jpeg"
-    },
-    { 
-      "id": 5, 
-      "title": "Soundbar LG SNH5, 4.1 Canais, Bluetooth, 600W RMS", 
-      "description": "O LG Sound Bar SNH5 uniu-se ao DTS Virtual:X para transformar sua casa em um verdadeiro cinema e deixar a exibição dos seus filmes favoritos muito mais imersiva. O LG Sound Bar SNH5 suporta saída para 4.1 canais para que você possa assistir à TV com um som mais envolvente.",
-      "price": 1099.99,
-      "cover": "https://i.imgur.com/w7SeQsa.jpg"
-    },
-    { 
-      "id": 6, 
-      "title": "Smartwatch Samsung Galaxy Watch 5, BT, 40mm", 
-      "description": "O smartwatch que oferece o mais completo conjunto de funções de monitoramento para o acompanhamento da Saúde e do Bem-Estar de uma maneira precisa e confiável. Possui os recursos essenciais e mais avançados para medir e acompanhar o estado da sua Saúde, funções como monitor de Batimento Cardíaco, Pressão Arterial, Eletrocardiograma, Oxímetro, Detecção de Queda e Chamada de Emergência, programa de Coaching do Sono para monitorar e melhorar a qualidade do seu Sono , além da Bioimpedância para avaliar a composição corporal de maneira rápida e interativa, e verificar a evolução os resultados dos exercícios refletidos no seu corpo. Possui uma série de funções avançadas de treinos com mais de 95 modalidades. ",
-      "price": 1139.00,
-      "cover": "https://i.imgur.com/Ua4bURp.jpg"
-    }
-  ]
+   "products": [
+      {
+         "id": 1,
+         "title": "Airpods Apple, com Estojo de Recarga, Bluetooth",
+         "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
+         "price": 120,
+         "cover": "https://i.imgur.com/uXrbyfA.jpg"
+      },
+      {
+         "id": 2,
+         "title": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H",
+         "description": "Lenovo ideapad Gaming 3i\nNovo design com 11ª Geração de Processadores Intel Core i5-11300H e placa de vídeo NVIDIA GeForce GTX 1650 4GB. Ideal para gamers e usuários que também precisam de alta performance. Com tela de 15.6'' Full HD WVA Antirreflexo para melhor definição de imagem e cores. O armanezamento SSD PCIe NVMe é 10x mais rápido* que um HDD 2.5” SATA, você terá mais segurança ao armazenar seus dados. O teclado retroiluminado em LED branco, deixa o computador mais atraente e também favorece a performance para jogos em lugares com pouca iluminação.",
+         "price": 379.9,
+         "cover": "https://i.imgur.com/bM5IUKe.jpg"
+      },
+      {
+         "id": 3,
+         "title": "Teclado Mecânico Gamer HyperX Alloy",
+         "description": "Teclado HyperX Alloy MKW100, HKBM1-R-EUA/G - 4P5E1AA#ABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos para adicionar um toque de estilo ao seu setup de PC. Estrutura em alumínio durável\nCom uma estrutura de alumínio sólida, o Alloy MKW100 foi projetado para fornecer estabilidade quando os toques em teclas estiverem a todo vapor. O descanso para pulso removível ajuda a reduzir a fadiga de longas sessões de jogos ou de trabalho.",
+         "price": 199.99,
+         "cover": "https://i.imgur.com/ldh1Q8O.jpg"
+      },
+      {
+         "id": 4,
+         "title": "Monitor Gamer Husky Tempest 34",
+         "description": "O Monitor Gamer Husky Gaming Tempest LED 34 UltraWide Curvo traz a experiência de imersão completa para o seus jogos! A tela Curva UltraWide, formato 21:9, e Quad HD (QHD), com taxa de atualização de 144Hz, confere maior campo de visão e amplifica a experiência de imersão durante seus jogos.",
+         "price": 2099.99,
+         "cover": "https://i.imgur.com/sRmbcWW.jpeg"
+      },
+      {
+         "id": 5,
+         "title": "Soundbar LG SNH5, 4.1 Canais, Bluetooth, 600W RMS",
+         "description": "O LG Sound Bar SNH5 uniu-se ao DTS Virtual:X para transformar sua casa em um verdadeiro cinema e deixar a exibição dos seus filmes favoritos muito mais imersiva. O LG Sound Bar SNH5 suporta saída para 4.1 canais para que você possa assistir à TV com um som mais envolvente.",
+         "price": 1099.99,
+         "cover": "https://i.imgur.com/w7SeQsa.jpg"
+      },
+      {
+         "id": 6,
+         "title": "Smartwatch Samsung Galaxy Watch 5, BT, 40mm",
+         "description": "O smartwatch que oferece o mais completo conjunto de funções de monitoramento para o acompanhamento da Saúde e do Bem-Estar de uma maneira precisa e confiável. Possui os recursos essenciais e mais avançados para medir e acompanhar o estado da sua Saúde, funções como monitor de Batimento Cardíaco, Pressão Arterial, Eletrocardiograma, Oxímetro, Detecção de Queda e Chamada de Emergência, programa de Coaching do Sono para monitorar e melhorar a qualidade do seu Sono , além da Bioimpedância para avaliar a composição corporal de maneira rápida e interativa, e verificar a evolução os resultados dos exercícios refletidos no seu corpo. Possui uma série de funções avançadas de treinos com mais de 95 modalidades. ",
+         "price": 1139.0,
+         "cover": "https://i.imgur.com/Ua4bURp.jpg"
+      },
+      {
+         "id": 7,
+         "title": "PlayStation 5 825GB 2 Controle Branco Sony",
+         "description": "Para você que é fanático por jogos, jogar não tem limites! A Sony apresenta o PlayStation 5 2022 na cor branca. Ele tem 825GB de armazenamento SSD, 1 controle sem fio DualSense e acompanha o jogo Astro’s Playroom pré-instalado. O PS5 oferece novas possibilidades de jogabilidade que você nunca imaginou. Reproduza jogos para PS5 e PS4 em Blu-ray Disc. Além disso, você também pode baixar jogos digitais para PS5 e PS4 pela PlayStation Store. Experimente o carregamento extremamente rápido do SSD de ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D. Além de uma geração totalmente nova de jogos incríveis PlayStation. ",
+         "price": 4300.0,
+         "cover": "https://images.kabum.com.br/produtos/fotos/308350/kit-console-sony-playstation-5-controle-sem-fio-ps5-dualsense_1644939898_original.jpg"
+      },
+      {
+         "id": 8,
+         "title": "Headset Gamer Sem Fio Logitech G733 7.1, Azul ",
+         "description": "Conheça o G733, um Headset Gamer desenvolvido para se adequar ao seu estilo. Adote a tecnologia sem fio LIGHTSPEED de 2,4 GHz, alcance de até 20 m e até 29 horas de duração da bateria. Personalize a aparência e o som em tempo real através do software Logitech G HUB com os filtros de voz Blue VO!CE e iluminação RGB LIGHTSYNC frontal de zona dupla. O G733 possui tecnologias avançadas de áudio, incluindo drivers de áudio PRO-G de 40 mm, câmaras acústicas internas e tecnologia DTS Headphone:X 2.0*. Jogue com conforto com uma faixa de cabeça confortável e reversível, almofadas dos fones de ouvido em espuma viscoelástica de camada dupla e um headset realmente leve, que pesa apenas 278 g.",
+         "price": 999.0,
+         "cover": "https://images.kabum.com.br/produtos/fotos/120491/headset-gamer-sem-fio-logitech-g733-rgb-lightsync-7-1-dolby-surround-com-blue-voice-azul-981-000942_1612876505_gg.jpg"
+      },
+      {
+         "id": 9,
+         "title": "Iphone 14 pro max 256GB, estelar ",
+         "description": "iPhone 14 Pro Max. Câmera grande-angular de 48 MP para capturar detalhes impressionantes. Dynamic Island, uma nova forma de interação no iPhone. Tela Sempre Ativa. E Detecção de Acidente*, um novo recurso de segurança que liga para a emergência se você não puder. Avisos legais *O SOS de Emergência usa uma conexão de rede celular ou chamadas Wi-Fi. **A tela tem bordas arredondadas. Quando medida como um retângulo, a tela tem 6,69 polegadas na diagonal. A área real de visualização é menor. ***A duração da bateria varia de acordo com o uso e a configuração. Consulte apple.com/br/batteries para obter mais informações. ****É preciso ter um plano de dados. 5G só está disponível em alguns países e por meio de determinadas operadoras. As velocidades variam de acordo com as condições e operadoras locais",
+         "price": 8000.0,
+         "cover": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/8/184954_2022.jpg"
+      },
+      {
+         "id": 10,
+         "title": "Lançamento Xiaomi 13 5G 256 GB+8 GB RAM ",
+         "description": "O Xiaomi 13 é um smartphone Android com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização, representando um dos melhores dispositivos móveis já feitos. A tela de 6.36 polegadas coloca esse Xiaomi no topo de sua categoria. A resolução também é alta: 2400x1080 pixel. As funcionalidades oferecidas pelo XiaoXiaomi 13 são muitas e todas top de linha.",
+         "price": 6300.0,
+         "cover": "https://mi-home.pl/cdn/shop/products/9873_m3-green-6-1600px.png?v=1680013930&width=1260"
+      }
+   ]
 }
