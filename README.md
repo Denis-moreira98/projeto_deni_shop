@@ -17,6 +17,27 @@ Este é um projeto de e-commerce desenvolvido com React. Ele permite listar prod
 - Tailwind CSS: linguagem de estilo para estilizar a interface do usuário.
 - API Fictícia: Uma Api que pode ser manipulada, podendo adicionar o item que quiser.
 
+## Para Rodar localmente na sua máquina:
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor da Api fake (Arquivo db.json está na pasta raiz do projeto)
+
+```bash
+  json-server --watch db.json
+```
+Inicie o servidor da Aplicação
+
+```bash
+  npm run start
+```
+
+
+
 ![Home](https://github.com/Denis-moreira98/projeto_deni_shop/assets/72985107/f49f8f53-c7e2-444e-a741-a2c2bb002988)
 ![Detalhe](https://github.com/Denis-moreira98/projeto_deni_shop/assets/72985107/e9cc45a6-5653-4cef-83a3-28cc6937f71f)
 ![Carrinho](https://github.com/Denis-moreira98/projeto_deni_shop/assets/72985107/482c1940-eda2-40a6-8d08-0710d9d000b1)
