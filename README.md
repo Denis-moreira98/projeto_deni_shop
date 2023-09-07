@@ -22,18 +22,22 @@ Este é um projeto de e-commerce desenvolvido com React. Ele permite listar prod
 Instale as dependências
 
 ```bash
-  npm install
+npm install
 ```
-
-Inicie o servidor da Api fake (Arquivo db.json está na pasta raiz do projeto)
+Instale a biblioteca JSON Server
 
 ```bash
-  json-server --watch db.json
+npm install -g json-server
+```
+Inicie o servidor da Api fake
+
+```bash
+json-server --watch db.json
 ```
 Inicie o servidor da Aplicação
 
 ```bash
-  npm run start
+npm run start
 ```
 
 
